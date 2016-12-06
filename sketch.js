@@ -28,7 +28,7 @@ function draw() {
     
     var touch = touches[i];
     imageMode(CENTER);
-    image(a,touchX, touchY,60,60)
+    image(a,touchX, touchY,150,150)
   }
 
     
