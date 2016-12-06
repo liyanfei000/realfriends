@@ -13,7 +13,7 @@ function preload(){
 
 function draw() {
   
-  background(200,50);
+  background(200,20);
   
   var friendsList = [taozi,
                  tong,
